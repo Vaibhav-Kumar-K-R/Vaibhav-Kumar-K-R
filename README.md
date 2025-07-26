@@ -91,7 +91,7 @@ I'm a **Full-Stack Developer** passionate about building **robust backend system
   <a href="https://github.com/Vaibhav-Kumar-K-R">
     <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-Kumar-K-R&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-Kumar-K-R&theme=tokyonight&hide_border=true" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-Kumar-K-R&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="48%" />
+  width="48%" />
   </a>
 </p>
 
