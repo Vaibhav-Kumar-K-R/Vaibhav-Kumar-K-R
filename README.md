@@ -89,6 +89,9 @@ I'm a **Full-Stack Developer** passionate about building **robust backend system
   </a>
 </p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav-Kumar-K-R&theme=github-compact&hide_border=true" width="90%"/>
 </p>
