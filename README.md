@@ -1,8 +1,5 @@
 <h1 align="center">Hello,👋 I'm <strong>Vaibhav Kumar</strong></h1>
 
-
----
-
 ### About Me
 
 I'm a **Full-Stack Developer** passionate about building **robust backend systems** and crafting **clean, animated frontend experiences**. I specialize in **scalable APIs**, **authentication** and  **real-time apps**. Currently working and learning in **Machine Learning**.
@@ -91,10 +88,10 @@ I'm a **Full-Stack Developer** passionate about building **robust backend system
   <a href="https://github.com/Vaibhav-Kumar-K-R">
     <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-Kumar-K-R&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
     <br>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-Kumar-K-R&theme=dark&hide_border=fal" width="48%" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-Kumar-K-R&theme=dark&hide_border=false" width="48%" />
   </a>
 </p>
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-Kumar-K-R&theme=dark&hide_border=false) -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-Kumar-K-R&theme=dark&hide_border=false)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
